@@ -55,18 +55,19 @@ proguard/
 captures/
 
 # IntelliJ IDEA / Android Studio (IDE settings)
+.idea/
 # 只保留少部分配置，大部分 IDE 缓存都不需要上传
-.idea/caches/
-.idea/libraries/
-.idea/modules.xml
-.idea/workspace.xml
-.idea/navEditor.xml
-.idea/assetWizardSettings.xml
-.idea/dictionaries
-.idea/runConfigurations.xml
-*.iml
-.idea/misc.xml
-# 如果你不想共享代码风格配置，可以把下面这行解开
+#.idea/caches/
+#.idea/libraries/
+#.idea/modules.xml
+#.idea/workspace.xml
+#.idea/navEditor.xml
+#.idea/assetWizardSettings.xml
+#.idea/dictionaries
+#.idea/runConfigurations.xml
+#*.iml
+#.idea/misc.xml
+# 如果不想共享代码风格配置，可以把下面这行解开
 # .idea/codeStyles/
 
 # Keystore files
